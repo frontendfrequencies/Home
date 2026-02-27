@@ -6,7 +6,7 @@ A creative workshop for front-end development and reflection.
 
 - [Classroom notes](classroom-notes) from lessons and exercises  
 - [My personal developer diary](transmission-log) reflecting on the process  
-- Projects and experiments built directly on this website
+- [Projects and experiments](projects) built directly on this website
 
 ## Check out my work on GitHub!
 [Click Here](https://github.com/frontendfrequencies)
