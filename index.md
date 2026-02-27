@@ -9,7 +9,7 @@ A creative workshop for front-end development and reflection.
 - Projects and experiments built directly on this website
 
 ## Responsive Web Design (my current class)
-- [Day 1](responsive-web-design/day-1)
+- [Day 1](classroom-notes)
 
 ## Check out my work on GitHub!
 [Click Here](https://github.com/frontendfrequencies)
