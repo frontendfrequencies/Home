@@ -6,7 +6,7 @@ Why start a developer diary? Well, for me, it all comes down to new horizons. Th
 
 So far, my coursework has been pretty straightforward. The hardest thing for me to wrap my head around has been GitHub. I made my first repo today as a way to record my class notes and test out HTML, allowing me to write, preview, and view the raw code on the back end all in the same interface. I also want to learn GitHub to host this website for free. 
 
-### Achievments
+### Achievements
 
 -Bought the domain name frontendfrequencies.dev (still need to figure out how to connect it with this website)
 
