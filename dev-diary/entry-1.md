@@ -6,7 +6,7 @@ Why start a developer diary? Well, for me, it all comes down to new horizons. Th
 
 So far, my coursework has been pretty straightforward. The hardest thing for me to wrap my head around has been GitHub. I made my first repo today as a way to record my class notes and test out HTML, allowing me to write, preview, and view the raw code on the back end all in the same interface. I also want to learn GitHub to host this website for free. 
 
-So far, here is what I have achieved:
+**Here is what I have achieved:**
 
 -Bought the domain name frontendfrequencies.dev (still need to figure out how to connect it with this website)
 
@@ -16,7 +16,7 @@ So far, here is what I have achieved:
 
 -Established a working foundation for this website :)
 
-Things that challenged me today:
+**Things that challenged me today:**
 
 -It took me hours to figure out how to edit a repo folder. When selected, the folder title lives under two column headings. "Name" and "Last commit message". I was adding all of my class notes (for practice) in the commit message section and, therefore, the Preview, Code, and Raw buttons either showed nothing or a pure white screen. It was really frustrating, but after trying everything recommended to me by the internet and Reddit, I eventually found the solution all by myself. I just needed to select my file under the "Name" column and add my code directly. 
 
