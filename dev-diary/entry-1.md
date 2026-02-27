@@ -6,7 +6,7 @@ Why start a developer diary? Well, for me, it all comes down to new horizons. Th
 
 So far, my coursework has been pretty straightforward. The hardest thing for me to wrap my head around has been GitHub. I made my first repo today as a way to record my class notes and test out HTML, allowing me to write, preview, and view the raw code on the back end all in the same interface. I also want to learn GitHub to host this website for free. 
 
-## Achievments
+### Achievments
 
 -Bought the domain name frontendfrequencies.dev (still need to figure out how to connect it with this website)
 
@@ -16,7 +16,7 @@ So far, my coursework has been pretty straightforward. The hardest thing for me 
 
 -Established a working foundation for this website :)
 
-## Challenges 
+### Challenges 
 
 -It took me hours to figure out how to edit a repo folder. When selected, the folder title lives under two column headings. "Name" and "Last commit message". I was adding all of my class notes (for practice) in the commit message section and, therefore, the Preview, Code, and Raw buttons either showed nothing or a pure white screen. It was really frustrating, but after trying everything recommended to me by the internet and Reddit, I eventually found the solution all by myself. I just needed to select my file under the "Name" column and add my code directly. 
 
@@ -25,6 +25,6 @@ So far, my coursework has been pretty straightforward. The hardest thing for me 
 -I learned that, unlike a builder site that allows you to just add a page with the click of a button, a site like this requires extra organization. Rather than creating a page with all my notes or log entries, I learned I need to link my file page to a folder containing individual files with the content I want to share. Like, a page behind the page, if that makes sense... This really made me appreciate how traditional web design works and the time and attention to detail that go into this kind of creative work.
 -Finally, I learned how to publish my repo as a page. (I'm writing this down so I don't forget!): click on the repo --> settings --> pages --> under "Branch" select Main + Folder / (root) --> Save
 
-## Final Thoughts
+### Final Thoughts
 
 Tonight I'm meeting up with my best friend from high school. He is the one who convinced me to go into theatre with him our sophomore year. That was a turning point in my life because I ended up majoring in Theatre Arts and, ironically enough, he majored in Web Design. After nearly 20 years working in live entertainment, I can honestly say that building a website is exactly the same. There is an audience (the user), a curtain (the interface), and behind the scenes (all of the beautiful code that makes it function). I can't wait to share my new project with him. 
