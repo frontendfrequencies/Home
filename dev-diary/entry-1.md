@@ -9,14 +9,19 @@ So far, my coursework has been pretty straightforward. The hardest thing for me 
 So far, here is what I have achieved:
 
 -Bought the domain name frontendfrequencies.dev (still need to figure out how to connect it with this website)
+
 -Made a GitHub profile (and a logo!)
+
 -Completed Responsive Web Design - Lesson 1
+
 -Established a working foundation for this website :)
 
 Things that challenged me today:
 
 -It took me hours to figure out how to edit a repo folder. When selected, the folder title lives under two column headings. "Name" and "Last commit message". I was adding all of my class notes (for practice) in the commit message section and, therefore, the Preview, Code, and Raw buttons either showed nothing or a pure white screen. It was really frustrating, but after trying everything recommended to me by the internet and Reddit, I eventually found the solution all by myself. I just needed to select my file under the "Name" column and add my code directly. 
+
 -Another issue I faced today was getting my page to appear in a format I found pleasing. While I wrote the home page in HTML, I learned that GitHub automatically converts Markdown files into HTML pages with Jekyll. After learning this (and not liking the layout of my HTML pages), I tested the Jekyll feature by rewriting my repo files to .md format, and that made my site run (and look) the way I wanted. 
+
 -I learned that, unlike a builder site that allows you to just add a page with the click of a button, a site like this requires extra organization. Rather than creating a page with all my notes or log entries, I learned I need to link my file page to a folder containing individual files with the content I want to share. Like, a page behind the page, if that makes sense... This really made me appreciate how traditional web design works and the time and attention to detail that go into this kind of creative work.
 -Finally, I learned how to publish my repo as a page. (I'm writing this down so I don't forget!): click on the repo --> settings --> pages --> under "Branch" select Main + Folder / (root) --> Save
 
