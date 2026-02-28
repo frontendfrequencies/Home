@@ -7,4 +7,11 @@ Content = the stuff that goes with the tag(s)
 
 Element = tag(s) + content
 
-*Void Element = no closing tag. Example: `<img>`
+*Void Element = no closing tag. Example: `<img>` Some code like Prettier will include `/` in a void element, but HTML does not.
+
+### Attributes
+src = specify image location
+
+alt = image descripton
+
+Example: `<img src="https://image_link.jpg" alt="image description" />`
