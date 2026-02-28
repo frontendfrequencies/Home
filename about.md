@@ -1,3 +1,7 @@
+---
+layout: default
+title: Home
+---
 # Behind The Switchboard
 Hello, my name is Walks Tall. I have a multidisciplinary background in project management and manufacturing, and I also build websites for small businesses, personal brands, and artists.  
 
