@@ -1,3 +1,4 @@
+[![My Logo](/assets/logo.png)](/)
 # Frontend Frequencies
 
 A creative workshop for front-end development and reflection.
