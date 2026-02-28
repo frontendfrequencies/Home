@@ -5,6 +5,6 @@
 <p>h1 - h6 used for heading sizes (1 is largest)</p>
 <p>p = Paragraph</p>
 <h2>CSS</h2>
-Css is used to style a webpage
+CSS is used to style a webpage
 <h2>JavaScript</h2>
 JavaScript makes your webpage interactive
