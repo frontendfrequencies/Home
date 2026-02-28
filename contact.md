@@ -1,7 +1,3 @@
----
-layout: default
-title: Home
----
 # Send Me A Signal .... . .-.. .-.. - - -
 Email: [signal@frontendfrequencies.dev](mailto:signal@frontendfrequencies.dev)
 
