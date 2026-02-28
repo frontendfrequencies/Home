@@ -23,6 +23,7 @@ So far, my coursework has been pretty straightforward. The hardest thing for me 
 -Another issue I faced today was getting my page to appear in a format I found pleasing. While I wrote the home page in HTML, I learned that GitHub automatically converts Markdown files into HTML pages with Jekyll. After learning this (and not liking the layout of my HTML pages), I tested the Jekyll feature by rewriting my repo files to .md format, and that made my site run (and look) the way I wanted. 
 
 -I learned that, unlike a builder site that allows you to just add a page with the click of a button, a site like this requires extra organization. Rather than creating a page with all my notes or log entries, I learned I need to link my file page to a folder containing individual files with the content I want to share. Like, a page behind the page, if that makes sense... This really made me appreciate how traditional web design works and the time and attention to detail that go into this kind of creative work.
+
 -Finally, I learned how to publish my repo as a page. (I'm writing this down so I don't forget!): click on the repo --> settings --> pages --> under "Branch" select Main + Folder / (root) --> Save
 
 ### Final Thoughts
