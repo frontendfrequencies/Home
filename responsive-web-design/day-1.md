@@ -1,10 +1,11 @@
-<h1>2.27.26</h1>
-<h2>HTML</h2>
+<h1>Day 1</h1>
+<h2>2.27.26</h2>
+<h3>HTML</h3>
 <p>HTML = "Hypertext Markup Language" and represents the content and structure of a webpage.</p>
 <p>h = Heading</p>
 <p>h1 - h6 used for heading sizes (1 is largest)</p>
 <p>p = Paragraph</p>
-<h2>CSS</h2>
+<h3>CSS</h3>
 CSS is used to style a webpage
-<h2>JavaScript</h2>
+<h3>JavaScript</h3>
 JavaScript makes your webpage interactive
