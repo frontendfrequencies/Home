@@ -18,10 +18,12 @@ Example: `<img src="https://image_link.jpg" alt="image description" />`
 
 **Overall format:** `<element attribute="value"></element>`
 
-herf = URL for a hyperlink
+href = URL for a hyperlink (think, "Hey, let's reference this URL!")
 
-target = the text you want to hyperlink 
+target = the text you want to hyperlink (t for target, t for text)
 
 ### Example: 
 Code: `<a href="https://frontendfrequencies.dev/" target="_blank">Check out my developer project!</a>`  
 Rendered Output: <a href="https://frontendfrequencies.dev/" target="_blank">Check out my developer project!</a>
+
+`target="_blank"` opens the link in a new browser tab (super cool!)
