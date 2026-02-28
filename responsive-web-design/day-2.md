@@ -16,4 +16,12 @@ alt = image descripton
 
 Example: `<img src="https://image_link.jpg" alt="image description" />`
 
-Test: <img src="" alt="logo" />
+**Overall format:** `<element attribute="value"></element>`
+
+herf = URL for a hyperlink
+
+target = the text you want to hyperlink 
+
+### Example: 
+Code: `<a herf="https://frontendfrequencies.dev/" target="_blank">Check out my developer project!</a>`  
+Rendered Output: <a herf="https://frontendfrequencies.dev/" target="_blank">Check out my developer project!</a>
