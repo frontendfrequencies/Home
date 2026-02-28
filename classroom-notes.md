@@ -1,7 +1,3 @@
----
-layout: default
-title: Home
----
 # Classroom Notes
 
 ## Responsive Web Design
