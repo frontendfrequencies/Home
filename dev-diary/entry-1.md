@@ -1,3 +1,7 @@
+---
+layout: default
+title: Home
+---
 # Entry 1
 ## 2.27.26
 This week, I started the Responsive Web Design course with freeCodeCamp. With a history of running before learning to walk, I ended up taking what little skills I gained in my first lesson on basic HTML and creating a home page with links to my classroom notes, developer diary, a page for my future projects, and an about and contact page. They say that when you work on projects instead of focusing on your schoolwork, it tends to slow down the learning process. That may be true. But I find I retain information better when I apply it to something personal. And that's what this site is for me. Something I personally care about. It also makes it easy for me to quickly look back at my notes from previous chapters from anywhere in the world (so long as I have wifi).
