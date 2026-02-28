@@ -15,3 +15,5 @@ src = specify image location
 alt = image descripton
 
 Example: `<img src="https://image_link.jpg" alt="image description" />`
+
+Test: <img src="assets/logo.png" alt="logo" />
