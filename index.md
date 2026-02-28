@@ -6,7 +6,7 @@ A creative workshop for front-end development and reflection.
 
 - [Classroom notes](classroom-notes) from lessons and exercises  
 - [My personal developer diary](transmission-log) reflecting on the process  
-- [Projects and experiments](projects) built directly on this website
+- [Projects and experiments](projects-experiments) built directly on this website
 
 ## Learn More
 [About](about) | [Contact](contact)
