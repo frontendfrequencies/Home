@@ -1,4 +1,4 @@
-<h1>Day 1</h1>
+<h1>Day 1 – The Basics</h1>
 <h2>2.27.26</h2>
 <h3>HTML</h3>
 <p>HTML = "Hypertext Markup Language" and represents the content and structure of a webpage.</p>
