@@ -23,5 +23,5 @@ herf = URL for a hyperlink
 target = the text you want to hyperlink 
 
 ### Example: 
-Code: `<a herf="https://frontendfrequencies.dev/" target="_blank">Check out my developer project!</a>`  
-Rendered Output: <a herf="https://frontendfrequencies.dev/" target="_blank">Check out my developer project!</a>
+Code: `<a href="https://frontendfrequencies.dev/" target="_blank">Check out my developer project!</a>`  
+Rendered Output: <a href="https://frontendfrequencies.dev/" target="_blank">Check out my developer project!</a>
