@@ -1,7 +1,3 @@
----
-layout: default
-title: Home
----
 # Day 2
 ## 2.28.26
 ### Element = `<tag>`Content`</tag>`
