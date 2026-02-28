@@ -1,7 +1,4 @@
----
-layout: default
-title: Home
----
+#Frontend Frequencies
 ## A creative workshop for front-end development and reflection.
 
 **Work in Progress:** This site is a meta-experiment documenting my journey as I learn front-end development. My goal is to create my own website from scratch and build a portfolio of creative coding projects along the way. Here, I will share:
