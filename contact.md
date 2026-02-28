@@ -1,4 +1,4 @@
 # Send Me A Signal .... . .-.. .-.. - - -
-Email: [transmissionlog@proton.me](mailto:transmissionlog@proton.me)
+Email: [signal@frontendfrequencies.dev](mailto:signal@frontendfrequencies.dev)
 
 GitHub: [https://github.com/frontendfrequencies](https://github.com/frontendfrequencies)
