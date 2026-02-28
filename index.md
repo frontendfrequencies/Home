@@ -9,4 +9,4 @@ A creative workshop for front-end development and reflection.
 - [Projects and experiments](projects) built directly on this website
 
 ## Learn More
-[About](about) | [Contact](contact)
+[About](switchboard) | [Contact](contact)
