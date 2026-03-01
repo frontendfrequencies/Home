@@ -1,4 +1,4 @@
-# Entry 2
+# Entry 2 – Patience
 ## 2.28.26
 I learned so many cool things in my Responsive Web Design class today! I incorporated most of the element and attribute building blocks that we covered on my website in some form or another. Admittedly, I got distracted by creativity, but a big bonus was successfully linking my domain name to this website! No more github.io at the end. My official domain name is now <a href="https://frontendfrequencies.dev/" target="_blank">frontendfrequencies.dev</a> <-- and this... getting that to highlight with a blue hyperlink—I learned how to do that too! It's not like doing it in an email, where you just highlight the text and click the link button. 
 
