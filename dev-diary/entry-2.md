@@ -36,6 +36,6 @@ So, the one thing I almost lost sleep over turned out to be the very thing I lea
 
 To close things out, here is my favorite thing I learned today. How to embed an image. For this example, I will use a picture of a robotic car that my nephew and I made last Christmas. It was a very proud day for the two of us because this car took us 7 hours to build, it had hundreds of tiny pieces and a solar-powered motor (which we also made!). 
 
-The code looks like this: `<img src="(https://image_link.jpg](https://github.com/frontendfrequencies/Home/blob/main/assets/robot-car.jpg)" alt="Robot Car" />`
+The code looks like this: `<img src="https://raw.githubusercontent.com/frontendfrequencies/Home/blob/main/assets/robot-car.jpg)" alt="Robot Car" />`
 
-Here is the rendered output: <img src="https://github.com/frontendfrequencies/Home/blob/main/assets/robot-car.jpg" alt="Robot Car" />
+Here is the rendered output: <img src="https://raw.githubusercontent.com/frontendfrequencies/Home/blob/main/assets/robot-car.jpg" alt="Robot Car" />
