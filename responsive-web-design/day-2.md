@@ -18,7 +18,7 @@ Example: `<img src="https://image_link.jpg" alt="image description" />`
 
 **Overall format:** `<element attribute="value"></element>`
 
-href = URL for a hyperlink (think, "Hey, let's reference this URL!")
+href = URL for a hyperlink (think, "Hey! Reference this URL.")
 
 target = the text you want to hyperlink (t for target, t for text)
 
