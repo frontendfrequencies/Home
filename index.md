@@ -1,3 +1,4 @@
+<span style="display:none;">Frontend Frequencies</span>
 [![My Logo](/assets/logo.png)](/)
 ## A creative workshop for front-end development and reflection.
 
