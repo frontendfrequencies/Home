@@ -1,4 +1,7 @@
-<span style="display:none;">Frontend Frequencies</span>
+---
+title: Frontend Frequencies
+description: A creative workshop for front-end development and reflection.
+---
 [![My Logo](/assets/logo.png)](/)
 ## A creative workshop for front-end development and reflection.
 
