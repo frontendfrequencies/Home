@@ -1,7 +1,3 @@
----
-layout: default
-title: Frontend Frequencies
----
 # Welcome
 [![My Logo](/assets/logo.png)](/)
 ## A creative workshop for front-end development and reflection.
