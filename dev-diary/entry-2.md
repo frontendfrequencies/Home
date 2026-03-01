@@ -16,7 +16,7 @@ Pretty cool, right?!
 - Adding a photo to a web page. (I used this skill to get my logo on the homepage!)
 
 ### Challenges
-The only true challenges for me today were tiny little typos that I struggled to catch. For example, when I was tasked with debugging someone else's code, I failed to catch a `/` in the end tag `</h3>`. And when trying to embed an image on a webpage, I kept writing "herf" but learned (when I kept failing) that it is actually spelled `href`, h-r-e-f. I made up a little mental trick to help me stop calling it "herf" (like Nerf Gun) in my head, and that's:
+The only true challenges for me today were tiny little typos that I struggled to catch. For example, when I was tasked with debugging someone else's code, I failed to catch a `/` in the end tag `</h3>`. And when trying to embed an image on a webpage, I kept writing "herf" but learned (after many failed attempts) that it is actually spelled `href`, h-r-e-f. I made up a little mental trick to help me stop calling it "herf" (like Nerf Gun) in my head, and that's:
 
 h = "Hey!"  
 ref = "Let's reference this URL."
