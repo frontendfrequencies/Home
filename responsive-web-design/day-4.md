@@ -46,3 +46,4 @@ Bold text example: `<strong>hate</strong>` = **hate**
 
 ### My First Boilerplate :)
 <a href="https://drive.google.com/file/d/1vNSMnH10mQ6Zw9b7fLTUE6TAoBZ6V2Rv/preview" target="_blank">Code</a>
+<a href="[https://drive.google.com/file/d/1vNSMnH10mQ6Zw9b7fLTUE6TAoBZ6V2Rv/preview](https://frontendfrequencies.dev/responsive-web-design/day-4-rendered-output)" target="_blank">Rendered Output</a>
