@@ -11,7 +11,7 @@
 ### Meta Elements
 - `<meta>`
 - Void element
-- `<meta title="description" description="This page is about such and such">` helps with SEO (Search Engine Optimization)
+- `<meta name="description" description="This page is about such and such">` helps with SEO (Search Engine Optimization)
 - The text in the description attribute will appear in the web search results.
 
 ### Open Graph Tags
